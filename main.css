@@ -1,0 +1,152 @@
+* {
+	box-sizing:border-box;
+}
+body {
+	background-color:lightslategray;
+	margin:55px;
+	font-size:14px;
+}
+span {
+	color:red;
+}
+button {
+	background-color:dodgerblue;
+	border-radius:0px;
+	color:white;
+	text-align:center;
+	border:solid;
+	border-color:dodgerblue;
+}
+.box1 {
+	background-color:gainsboro;
+	width:50%;
+	margin:auto;
+}
+.header {
+	background-color:lightseagreen;
+	width:50%;
+	margin:auto;
+	height:250px;
+	color:white;
+	font-size:15px;
+	border-bottom:10px;
+	border-bottom:solid;
+	border-color:teal;
+}
+.header-text {
+	padding-top:205px;
+	padding-left:15px;
+}
+.sidebar-box {
+	background-color:gainsboro;
+	border-bottom:10px;
+	border-bottom:solid;
+}
+.sidebar-right {
+	position:absolute;
+	top:363px;
+	right:180px;
+	height:225px;
+	padding-right:18px;
+
+}
+.sidebar-right li {
+	display:block;
+	list-style-type: none;
+	font-size:13px;
+}
+.sidebar-right a {
+	text-decoration:none;
+	color:grey;
+}
+.sidebar-right ul{
+	padding-left:5px;
+}
+.sidebar-title {
+	font-weight:bold;
+	padding-left:0px;
+}
+.sidebar-body {
+	padding-left:10px;
+	padding-top:3px;
+	color:grey;
+}
+.navbar {
+	display:inline-block;
+	background-color:midnightblue;
+	color:white;
+	padding-left:120px;
+	font-size:12px;
+	border-bottom-style:solid;
+	border-bottom-color:darkslateblue;
+	border-bottom:10px;
+}
+.navbar li {
+	display:inline-block;
+	padding-left:10px;
+	padding-right:9px;
+}
+.navbar a {
+	color:white;
+	text-decoration:none;
+}
+.section-header {
+	text-align:left;
+	border-bottom-style: solid;
+	padding-left:20px;
+	width:535px;
+	border-color:darkgrey;
+	border-width:1px;
+	height:25px;
+	margin-left:19px;
+}
+.table1 {
+	border:solid;
+	border-color:darkgrey;
+	border-width:1px;
+	font-size:12px;
+	margin:20px;
+	max-width:360px;
+	min-width:73px;
+	padding:5px;
+	margin:auto;
+	text-align:center;
+}
+.table-header {
+	background-color:dimgrey;
+	font-weight:bold;
+}
+.samplebox {
+	background-color:darkgrey;
+	margin:auto;
+	max-width:450px;
+	padding:10px;
+}
+.samplebox p {
+	margin:1px
+}
+.indent {
+	padding-left:15px;
+}
+.body-img-center {
+	padding-left:98px;
+}
+.list-spacing {
+	padding-bottom:10px;
+}
+.post-info {
+	color:darkgrey;
+	padding-left:20px;
+}
+.subheader {
+	border-bottom:solid;
+	border-width:1px;
+	border-color:grey;
+	height:8px;
+	margin-bottom:20px;
+}
+.subheader p {
+	background-color:gainsboro;
+	width:80px;
+	margin-left:20px;
+}
